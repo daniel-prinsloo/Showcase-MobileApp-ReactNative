@@ -1,0 +1,3 @@
+rootProject.name = 'Showcase_ReactNative'
+
+include ':app'
